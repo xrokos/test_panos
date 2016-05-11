@@ -8,7 +8,7 @@ h1 {
   font-size: 175% bold;
   text-align: center;
 }
-.label{
+h2{
   font-size: 125%;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
@@ -28,7 +28,7 @@ article{
   padding: 10px;
 }
 
-.section {
+section {
   border: 1px solid black;
   background-color: gray;
   height: 20%;
